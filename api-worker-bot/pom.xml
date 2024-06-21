@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.eurekabegin</groupId>
-    <artifactId>eureka-client-2</artifactId>
+    <artifactId>api-worker-bot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>eureka-client-2</name>
     <description>eureka-client-2</description>
