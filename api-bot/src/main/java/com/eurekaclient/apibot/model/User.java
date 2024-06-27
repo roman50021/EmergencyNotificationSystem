@@ -1,6 +1,6 @@
-﻿package com.eurekabegin.eurekaclient.model;
+package com.eurekaclient.apibot.model;
 
-import com.eurekabegin.eurekaclient.model.contract.AbstractEntity;
+import com.eurekaclient.apibot.model.contract.AbstractEntity;
 import jakarta.persistence.*;
 import lombok.*;
 

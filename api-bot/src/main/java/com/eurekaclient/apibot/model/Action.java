@@ -1,4 +1,4 @@
-﻿package com.eurekabegin.eurekaclient.model;
+package com.eurekaclient.apibot.model;
 
 public enum Action {
     FREE,

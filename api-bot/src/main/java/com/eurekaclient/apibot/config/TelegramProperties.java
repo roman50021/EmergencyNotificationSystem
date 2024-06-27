@@ -1,4 +1,4 @@
-﻿package com.eurekabegin.eurekaclient.config;
+package com.eurekaclient.apibot.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

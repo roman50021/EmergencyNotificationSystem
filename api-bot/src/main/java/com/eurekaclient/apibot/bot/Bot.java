@@ -1,8 +1,11 @@
-﻿package com.eurekabegin.eurekaclient.bot;
+package com.eurekaclient.apibot.bot;
 
-import com.eurekabegin.eurekaclient.config.TelegramProperties;
+import com.eurekaclient.apibot.UpdateDispatcher;
+import com.eurekaclient.apibot.config.TelegramProperties;
 import org.springframework.stereotype.Component;
 import org.telegram.telegrambots.bots.TelegramWebhookBot;
+import org.telegram.telegrambots.meta.api.methods.BotApiMethod;
+import org.telegram.telegrambots.meta.api.objects.Update;
 
 @Component
 public final class Bot extends TelegramWebhookBot {

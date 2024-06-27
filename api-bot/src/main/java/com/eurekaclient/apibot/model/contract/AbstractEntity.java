@@ -1,4 +1,4 @@
-﻿package com.eurekabegin.eurekaclient.model.contract;
+package com.eurekaclient.apibot.model.contract;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -11,9 +11,7 @@ import java.util.UUID;
 @Getter
 @MappedSuperclass
 public abstract class AbstractEntity {
-
     @Id
     @GeneratedValue(strategy = GenerationType.UUID)
     protected UUID id;
-
 }

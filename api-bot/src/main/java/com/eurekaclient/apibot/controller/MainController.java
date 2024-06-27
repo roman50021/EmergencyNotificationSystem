@@ -1,6 +1,6 @@
-﻿package com.eurekabegin.eurekaclient.controller;
+package com.eurekaclient.apibot.controller;
 
-import com.eurekabegin.eurekaclient.bot.Bot;
+import com.eurekaclient.apibot.bot.Bot;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
